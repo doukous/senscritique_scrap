@@ -301,7 +301,6 @@ def main(page_start_index:int = 1, page_end_index:int = 228):
 
 
 if __name__ == '__main__':
-    main(10,12)
-
-    # a=get_number_of_movies_on_the_db()
-    # print(a)
+    main()
+    
+ 
